@@ -1,5 +1,5 @@
 [webservers]
-al-learn-instance-2 ansible_user=ansiuser
-aws-redhat-1 ansible_user=ansiuser
+al-learn-instance-2 ansible_ssh_user=ansiuser
+aws-redhat-1 ansible_ssh_user=ansiuser
 
 
