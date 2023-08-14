@@ -1,4 +1,5 @@
 [webservers]
-172.31.34.128 ansible_user=ec2-user
+al-learn-instance-2 ansible_user=ansiuser
+aws-redhat-1 ansible_user=ansiuser
 
 
